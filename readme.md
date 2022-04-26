@@ -1,12 +1,13 @@
-# Three.js - Template - Simple
+# Three.js - The Aviator
 
-> A simple template for a Three.js scene. Place all your static files like images, models, textures, etc. inside the public directory. The project uses Vite for the dev server and build. It already includes the plugin for converting text files to modules (.vs, .fs, .vert, .frag, .glsl, wgsl etc.).
+> The aviator game's article tutorial.
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
